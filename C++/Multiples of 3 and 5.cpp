@@ -26,6 +26,6 @@ int main()
 			sum += i;
 		}
 	}
-	printf("Sum of these:: %li\n", sum);
+	printf("Sum of these:: %li\n", sum); // result is 233168
 	return EXIT_SUCCESS;
 }
